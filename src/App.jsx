@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-   <h1>DEVAKIVADA. Akul kartikeya </h1>
+   <h1> DEVAKIVADA. Akul kartikeya </h1>
     </>
   )
 }
