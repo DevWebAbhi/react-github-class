@@ -11,6 +11,7 @@ function App() {
 
       <h1>Hemanth Konduri</h1>
 
+        <h1>Suhas Ramidi</h1>
 
       <h1>Rohitha Gannamaneedi</h1>
 
